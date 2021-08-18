@@ -1,0 +1,119 @@
+body{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    background: #000000;
+    color: #FFFFFF;
+	align: center;
+}
+
+.logoC {
+    border-radius: 150px;
+    border: 2px solid #FFFFFF;
+}
+.botn   {
+    background-color: #000000;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    display: block;
+    border-radius: 100px;
+    width: 250px;
+    text-align: center;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+	border: 1px solid #FFFFFF
+}
+.botn:hover   {
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #000000;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    display: block;
+    border-radius: 100px;
+    width: 250px;
+    text-align: center;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+
+
+
+
+
+div img .logoC {
+    vertical-align: middle;
+    text-align: justify;
+
+
+
+
+
+
+}
+
+
+.cuerpo .img_me {
+    text-align: center;
+    margin-top: 25px;
+
+
+}
+.cuerpo .desc-d {
+    vertical-align: middle;
+    display: block;
+    width: 250px;
+    position: inherit;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.cuerpo .fon_ca {
+    background-color: #2D2D2D;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+.cuerpo .fon_ca .cabeza {
+    width: 200px;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    text-indent: 0px;
+    margin-left: 14px;
+}
+.cuerpo .fin {
+    height: 80px;
+    text-align: center;
+    background-color: #2D2D2D;
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-bottom: -18px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 100px;
+    padding-left: 16px;
+    font-size: small;
+    display: block;
+    margin-top: 37px;
+}
+.cuerpo {
+    height: 646px;
+
+
+}
